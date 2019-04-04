@@ -1,1 +1,1 @@
-Genetic Algorithms project made on "Object Oriented Programming" course.
+Genetic Algorithms project made on "Advanced Object Oriented Programming" course.
