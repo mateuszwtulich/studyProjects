@@ -1,1 +1,1 @@
-Projects made in C++ on "Object Oriented Programming" course.
+Projects made in C++ on "Advanced Object Oriented Programming" course.
