@@ -1,1 +1,1 @@
-Applications made in Android Studio using Java on "Mobile Systems" course.
+Applications made in Android Studio using Java on undergoing "Mobile Systems" course.
