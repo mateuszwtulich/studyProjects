@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".FullImageActivity" >
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"/>
+    <item
+        android:id="@+id/wallpaper"
+        android:title="Set as wallpaper">
+    </item>
+    <item
+        android:id="@+id/details"
+        android:title="Details"></item>
+
+</menu>

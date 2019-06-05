@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".FolderActivity" >
+
+    <item
+        android:id="@+id/grid"
+        android:title="Show as grid"/>
+
+    <item
+        android:id="@+id/file_menu"
+        android:title="Change file">
+    </item>
+
+</menu>
